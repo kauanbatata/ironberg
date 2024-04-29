@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>CT IRONBERG</title>
+
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="style.css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+	</head>
+
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="https://ocupom.com.br/wp-content/uploads/2023/11/logo-Ironberg-2-1-150x127.png"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<img class="banner" src="https://ironberg.com.br/assets/images/ironberg-santos-16.jpeg">
+
+		<main>
+			<section class="principal">
+				<h2 class="titulo-principal">Um Pouco do CT...</h2>
+
+				<img class="utensilios" src="https://i.pinimg.com/736x/01/f4/35/01f4357c5fe8c5b76e4028a32cb68dba.jpg" alt="Utensilios de um barbeiro.">
+		 
+				<p>Ficou famoso esse CT em São Paulo, o<strong>CT Ironberg</strong> traz para você, uma oportunidade nova para mudar seu físico, onde o CT é aberto 24hrs para você realizar seus treinos. Fundada em 2020, o CT Ironberg já é conhecido nacionalmente, e faz muita fama entre os clientes e os bodybuilders.</p>
+
+				<p id="missao"><em>Nossa missão é: <strong>"Fazer com que nossos clientes consigam treinar no horário que eles conseguirem, com um custo mediano, e conforto ao cliente."</strong>.</em></p>
+
+				<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da musculação. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+			</section>
+
+			<section class="mapa">
+				<h3 class="titulo-principal">Nosso CT</h3>
+				<p>Nosso CT está localizado em SP e outras regiões.</p>
+
+				<div class="mapa-conteudo">
+					<iframe src="https://www.google.com/maps/place/IRONBERG+S%C3%83O+PAULO+-+BARRA+FUNDA/@-23.5217226,-46.6738391,17z/data=!3m1!4b1!4m6!3m5!1s0x94cef9cf474ffe9d:0xc70bb01b7ab90b7f!8m2!3d-23.5217275!4d-46.6712642!16s%2Fg%2F11v9lfljh6?entry=ttu" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+				</div>
+			</section>
+
+			<section class="beneficios">
+				<h3 class="titulo-principal">Benefícios do CT</h3>
+
+				<div class="conteudo-beneficios">
+					<ul class="lista-beneficios">
+						<li class="itens">Atendimento aos Clientes</li>
+						<li class="itens">Espaço diferenciado</li>
+						<li class="itens">Localização</li>
+						<li class="itens">Profissionais Qualificados</li>
+						<li class="itens">Pontualidade</li>
+						<li class="itens">Local Limpo</li>
+					</ul><img src="https://www.esportelandia.com.br/wp-content/uploads/2023/11/Ironberg.png" class="imagem-beneficios">
+				</div>
+
+				<div class="video">
+					<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=yg5lUSnkAjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<img src="https://ocupom.com.br/wp-content/uploads/2023/11/logo-Ironberg-2-1-150x127.png">
+			<p class="copyright">&copy; CT Ironberg - 2020</p>
+		</footer>
+	</body>
+</html>
