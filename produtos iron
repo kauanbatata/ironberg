@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Produtos - CT Ironberg</title>
+
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="https://ocupom.com.br/wp-content/uploads/2023/11/logo-Ironberg-2-1-150x127.png"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<ul class="produtos">
+				<li>
+					<h2>Anilhas</h2>
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyjXSUqcwe6bOHc87fUDpTyz0rNhAUhkPUwqzJEo2VQ&s">
+					<p class="produto-descricao">de 1kg há 25kg</p>
+				</li>
+				<li>
+					<h2>Halteres</h2>
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2VFR-rxvwBjXm1_nP37CYg6W8IV5CWqMaqJtjJ5Llg&s">
+					<p class="produto-descricao">de 1kg a 110kg</p>
+				</li>
+				<li>
+					<h2>Máquinas</h2>
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwdhrNl5kINH0CMbz2cQ9pVxfT8xdos8BP8wPbbU23g&s"
+				</li><p class="produto-descricao">supino máquina</p>
+			</ul>
+		</main>
+
+		<footer>
+			<img src="https://ocupom.com.br/wp-content/uploads/2023/11/logo-Ironberg-2-1-150x127.png">
+			<p class="copyright">&copy; CT Ironberg - 2020</p>
+		</footer>
+	</body>
+</html>
