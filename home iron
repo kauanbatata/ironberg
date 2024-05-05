@@ -17,7 +17,7 @@
 
 				<nav>
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a class="cor-dourada" href="index.html">Home</a></li>
 						<li><a href="produtos.html">Produtos</a></li>
 						<li><a href="contato.html">Contato</a></li>
 					</ul>
@@ -33,9 +33,9 @@
 
 				<img class="utensilios" src="https://i.pinimg.com/736x/01/f4/35/01f4357c5fe8c5b76e4028a32cb68dba.jpg" alt="Utensilios de um barbeiro.">
 		 
-				<p>Ficou famoso esse CT em São Paulo, o<strong>CT Ironberg</strong> traz para você, uma oportunidade nova para mudar seu físico, onde o CT é aberto 24hrs para você realizar seus treinos. Fundada em 2020, o CT Ironberg já é conhecido nacionalmente, e faz muita fama entre os clientes e os bodybuilders.</p>
+				<p>Ficou famoso esse CT em São Paulo, o <strong>CT Ironberg</strong> traz para você, uma oportunidade nova para mudar seu físico, onde o CT é aberto 24hrs para você realizar seus treinos. Fundado em 2020, o CT Ironberg já é conhecido nacionalmente, e faz muita fama entre os clientes e os bodybuilders.</p>
 
-				<p id="missao"><em>Nossa missão é: <strong>"Fazer com que nossos clientes consigam treinar no horário que eles conseguirem, com um custo mediano, e conforto ao cliente."</strong>.</em></p>
+				<p id="missao"><em>Nossa missão é: <strong>"Fazer com que nossos clientes consigam treinar em um horário acessível para cada cliente, com um custo mediano, e com o máximo de conforto e atendimento ao cliente."</strong>.</em></p>
 
 				<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da musculação. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 			</section>
@@ -58,8 +58,8 @@
 						<li class="itens">Espaço diferenciado</li>
 						<li class="itens">Localização</li>
 						<li class="itens">Profissionais Qualificados</li>
-						<li class="itens">Pontualidade</li>
-						<li class="itens">Local Limpo</li>
+						<li class="itens">Máquinas Confortáveis</li>
+						<li class="itens">Local com o máximo de Organização e Limpeza.</li>
 					</ul><img src="https://www.esportelandia.com.br/wp-content/uploads/2023/11/Ironberg.png" class="imagem-beneficios">
 				</div>
 
